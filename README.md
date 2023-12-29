@@ -8,3 +8,7 @@ A time conversion tool written by pyqt5.
 
 A clipboard tool written by pyqt5.
 
+**3.progress_bar.py**
+
+A simple progress bar.
+
